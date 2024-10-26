@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://elirauju.github.io/sitemap_index.elirauju
